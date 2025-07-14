@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: tssc-quay-quay-tssc-quay.apps.cluster-fhj8w.fhj8w.sandbox2412.opentlc.com/tssc/go-fjgiydhk:fd9b9da2f2e9b8fbb50029a16d1028e987155ef3@sha256:ca4bc54832fd6376e5d2098fcfcf856e8aa43db8a8a6df923f3fce8362fe27ba
+        - image: tssc-quay-quay-tssc-quay.apps.cluster-fhj8w.fhj8w.sandbox2412.opentlc.com/tssc/go-fjgiydhk:a770dc998afc0986e9c08317f7087cbfed66d468@sha256:7ad08ad43ff028a987a6d54ec5dd7b31d7762e423a7f7645b6b47b7053a0df7d
           name: container-image
